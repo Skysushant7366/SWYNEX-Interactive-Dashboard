@@ -16,6 +16,16 @@
 
 ---
 
+## Video Walkthroughs
+
+| Task | Video |
+|---|---|
+| Task 1: Data Cleaning & Preparation | [Watch on YouTube](https://youtu.be/Uq-i0Zj4JNo) |
+| Task 2: Exploratory Data Analysis | [Watch on YouTube](https://youtu.be/YpbkOTyGYrM) |
+| Task 3: Power BI Dashboard | [Watch on YouTube](https://youtu.be/1yWATsmKJFY) |
+
+---
+
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
 2. [Dashboard Preview](#2-dashboard-preview)
@@ -447,10 +457,10 @@ These are also written on Page 4 of the dashboard.
 
 ## 14. Project Series
 
-| Task | Repository / Document | Focus |
+| Task | Repository | Focus |
 |---|---|---|
-| Task 1 | Data Cleaning & Preparation | Missing values, data types, inconsistent labels, encoding junk |
-| Task 2 | Exploratory Data Analysis | Outlier audit, 11 corrections, six analyses |
+| Task 1 | [Data Cleaning & Preparation](https://github.com/Skysushant7366/SWYNEX-Data-Cleaning-Preparation) | Missing values, data types, inconsistent labels, encoding junk |
+| Task 2 | [Exploratory Data Analysis](https://github.com/Skysushant7366/SWYNEX-Exploratory-Data-Analysis) | Outlier audit, 11 corrections, six analyses |
 | **Task 3** | **This repository** | **Interactive Power BI dashboard with DAX** |
 
 ---
